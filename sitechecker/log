@@ -1,0 +1,168 @@
+checking site ....
+	base: http://schroedercreekresort.com
+	Getting robots.txt for: schroedercreekresort.com
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/camplogo.JPG
+	adding image: http://schroedercreekresort.com/images/Camp16x.JPG
+	adding image: http://schroedercreekresort.com/images/Border.gif
+adding url: http://schroedercreekresort.com/index.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Map.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Amenities.html
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/camp6.jpg
+	adding image: http://schroedercreekresort.com/images/camp2.jpg
+	adding image: http://schroedercreekresort.com/images/camp1.jpg
+	adding image: http://schroedercreekresort.com/images/camp3.jpg
+	adding image: http://schroedercreekresort.com/images/camp5.jpg
+	adding image: http://schroedercreekresort.com/images/camp4.jpg
+adding url: http://schroedercreekresort.com/Activities.html
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/Activity6.jpg
+	adding image: http://schroedercreekresort.com/images/Activity2.jpg
+	adding image: http://schroedercreekresort.com/images/Activity1.jpg
+	adding image: http://schroedercreekresort.com/images/Activity3.jpg
+	adding image: http://schroedercreekresort.com/images/Activity5.jpg
+	adding image: http://schroedercreekresort.com/images/Activity4.jpg
+	adding image: http://schroedercreekresort.com/images/Activity7.jpg
+	adding image: http://schroedercreekresort.com/images/Activity8.jpg
+	adding image: http://schroedercreekresort.com/images/Activity9.jpg
+	adding image: http://schroedercreekresort.com/images/Activity10.jpg
+	adding image: http://schroedercreekresort.com/images/Activity11.jpg
+	adding image: http://schroedercreekresort.com/images/Activity12.jpg
+adding url: http://schroedercreekresort.com/Fishing.html
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/fishing.gif
+adding url: http://schroedercreekresort.com/CampMap.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Kaslo.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Rates.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Contacts.html
+	title: Schroeder Creek Resort
+adding url: mailto:inquiries@schroedercreekresort.com
+	Not checked: URL scheme mailto ignored.
+adding url: http://www.britishcolumbia.com/regions/towns/?townID=3501&webregionid=2
+	self.status: host not found
+	self.url: http://www.britishcolumbia.com/regions/towns/?townID=3501&webregionid=2
+adding url: http://www.kaslokayaking.ca/
+	self.status: host not found
+	self.url: http://www.kaslokayaking.ca/
+adding url: http://www.hotnaturally.com/
+	self.status: host not found
+	self.url: http://www.hotnaturally.com/
+adding url: http://www.kokaneesprings.com/
+	title: Kokanee Springs Golf Resort Ltd.
+adding url: http://www.golfbalfour.com/
+	self.status: host not found
+	self.url: http://www.golfbalfour.com/
+adding url: http://www.kin.bc.ca/golf/KasloGolf.html
+	title: Kaslo Golf Club
+adding url: http://www.bcadventure.com/adventure/explore/kootenays/trails/kohaneep.htm
+	self.status: host not found
+	self.url: http://www.bcadventure.com/adventure/explore/kootenays/trails/kohaneep.htm
+adding url: http://www.kaslojazzfest.com/index_flash.html
+	self.status: host not found
+	self.url: http://www.kaslojazzfest.com/index_flash.html
+adding url: http://schroedercreekresort.com/images/SchroederCreekMap.bmp
+adding url: http://www.th.gov.bc.ca/BCHighways/inlandFerryschedule/ferryschedule.htm
+	title: Marine Branch - Inland Ferry Schedules
+done.
+Generating reports...
+	sitemap
+	badlinks
+	images
+	whatsold
+	whatsnew
+	slow
+	notitles
+	external
+	notchkd
+	problems
+done.
+checking site ....
+	base: http://schroedercreekresort.com
+	Getting robots.txt for: schroedercreekresort.com
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/camplogo.JPG
+	adding image: http://schroedercreekresort.com/images/Camp16x.JPG
+	adding image: http://schroedercreekresort.com/images/Border.gif
+adding url: http://schroedercreekresort.com/index.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Map.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Amenities.html
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/camp6.jpg
+	adding image: http://schroedercreekresort.com/images/camp2.jpg
+	adding image: http://schroedercreekresort.com/images/camp1.jpg
+	adding image: http://schroedercreekresort.com/images/camp3.jpg
+	adding image: http://schroedercreekresort.com/images/camp5.jpg
+	adding image: http://schroedercreekresort.com/images/camp4.jpg
+adding url: http://schroedercreekresort.com/Activities.html
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/Activity6.jpg
+	adding image: http://schroedercreekresort.com/images/Activity2.jpg
+	adding image: http://schroedercreekresort.com/images/Activity1.jpg
+	adding image: http://schroedercreekresort.com/images/Activity3.jpg
+	adding image: http://schroedercreekresort.com/images/Activity5.jpg
+	adding image: http://schroedercreekresort.com/images/Activity4.jpg
+	adding image: http://schroedercreekresort.com/images/Activity7.jpg
+	adding image: http://schroedercreekresort.com/images/Activity8.jpg
+	adding image: http://schroedercreekresort.com/images/Activity9.jpg
+	adding image: http://schroedercreekresort.com/images/Activity10.jpg
+	adding image: http://schroedercreekresort.com/images/Activity11.jpg
+	adding image: http://schroedercreekresort.com/images/Activity12.jpg
+adding url: http://schroedercreekresort.com/Fishing.html
+	title: Schroeder Creek Resort
+	adding image: http://schroedercreekresort.com/images/fishing.gif
+adding url: http://schroedercreekresort.com/CampMap.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Kaslo.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Rates.html
+	title: Schroeder Creek Resort
+adding url: http://schroedercreekresort.com/Contacts.html
+	title: Schroeder Creek Resort
+adding url: mailto:inquiries@schroedercreekresort.com
+	Not checked: URL scheme mailto ignored.
+adding url: http://www.britishcolumbia.com/regions/towns/?townID=3501&webregionid=2
+	self.status: host not found
+	self.url: http://www.britishcolumbia.com/regions/towns/?townID=3501&webregionid=2
+adding url: http://www.kaslokayaking.ca/
+	self.status: host not found
+	self.url: http://www.kaslokayaking.ca/
+adding url: http://www.hotnaturally.com/
+	self.status: host not found
+	self.url: http://www.hotnaturally.com/
+adding url: http://www.kokaneesprings.com/
+	title: Kokanee Springs Golf Resort Ltd.
+adding url: http://www.golfbalfour.com/
+	self.status: host not found
+	self.url: http://www.golfbalfour.com/
+adding url: http://www.kin.bc.ca/golf/KasloGolf.html
+	title: Kaslo Golf Club
+adding url: http://www.bcadventure.com/adventure/explore/kootenays/trails/kohaneep.htm
+	self.status: host not found
+	self.url: http://www.bcadventure.com/adventure/explore/kootenays/trails/kohaneep.htm
+adding url: http://www.kaslojazzfest.com/index_flash.html
+	self.status: host not found
+	self.url: http://www.kaslojazzfest.com/index_flash.html
+adding url: http://schroedercreekresort.com/images/SchroederCreekMap.bmp
+adding url: http://www.th.gov.bc.ca/BCHighways/inlandFerryschedule/ferryschedule.htm
+	title: Marine Branch - Inland Ferry Schedules
+done.
+Generating reports...
+	sitemap
+	badlinks
+	images
+	whatsold
+	whatsnew
+	slow
+	notitles
+	external
+	notchkd
+	problems
+done.
